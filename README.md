@@ -52,5 +52,5 @@ Feel free to fork the repository and submit pull requests for improvements.
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, reach out via [your email] or open an issue on GitHub.
+For any queries, open an issue on GitHub.
 
