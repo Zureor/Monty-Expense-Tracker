@@ -2,11 +2,9 @@
 A simple finance tracking application built using Java, Spring Web, and MySQL.
 
 ## Features
-- User authentication and authorization
 - Add, edit, and delete financial transactions
 - Categorize expenses and income
 - View transaction history
-- Generate financial reports
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
