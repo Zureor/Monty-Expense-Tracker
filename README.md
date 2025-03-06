@@ -23,7 +23,10 @@ cd expense_tracker
 ```
 
 ### 2. Configure Database
-Create a MySQL database and update the `application.properties` file with your database credentials:
+
+#### Create a MySQL database named "Expense_tracker" and import the sql file given.
+
+#### update the `application.properties` file with your database credentials:
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/expense_tracker
 spring.datasource.username=root
