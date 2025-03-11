@@ -24,7 +24,7 @@ cd expense_tracker
 
 ### 2. Configure Database
 
-#### Create a MySQL database named "Expense_tracker" and import the sql file given.
+#### import the sql file given in MySQL database named "Expense_tracker" (use `Xampp` for better compatiblity).
 
 #### update the `application.properties` file with your database credentials:
 ```properties
